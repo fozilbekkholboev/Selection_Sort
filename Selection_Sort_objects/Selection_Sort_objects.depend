@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1626074215 source:d:\3 semester\algorithms\sort\selection sort\selection_sort_objects\main_selection_sort_objects.cpp
+	<iostream>
+	"../structure_FOOTBALLER.h"
+
+1626073110 d:\3 semester\algorithms\sort\selection sort\structure_footballer.h
+	<string>
+	<iostream>
+

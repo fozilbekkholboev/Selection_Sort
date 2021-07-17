@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\3 semester\Algorithms\Sort\selection sort\Left-to-right\Project1\main.cpp(26,23): warning C4018: '<': signed/unsigned mismatch
+D:\3 semester\Algorithms\Sort\selection sort\Left-to-right\Project1\main.cpp(38,25): warning C4018: '<': signed/unsigned mismatch
+D:\3 semester\Algorithms\Sort\selection sort\Left-to-right\Project1\main.cpp(56,23): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\3 semester\Algorithms\Sort\selection sort\Left-to-right\Project1\Debug\Selection_Sort_Ascending_numbers.exe

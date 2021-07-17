@@ -1,0 +1,5 @@
+﻿  main_descening_numbers.cpp
+D:\3 semester\Algorithms\Sort\selection sort\Left-to-right\Selection_Sort_Descending_Numbers\main_descening_numbers.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+D:\3 semester\Algorithms\Sort\selection sort\Left-to-right\Selection_Sort_Descending_Numbers\main_descening_numbers.cpp(42,25): warning C4018: '<': signed/unsigned mismatch
+D:\3 semester\Algorithms\Sort\selection sort\Left-to-right\Selection_Sort_Descending_Numbers\main_descening_numbers.cpp(57,23): warning C4018: '<': signed/unsigned mismatch
+  Selection_Sort_Descending_Numbers.vcxproj -> D:\3 semester\Algorithms\Sort\selection sort\Left-to-right\Selection_Sort_Descending_Numbers\Debug\Selection_Sort_Descending_Numbers.exe
